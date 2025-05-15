@@ -1,41 +1,26 @@
-Alarm Clock Web App
+# Alarm Clock Web App
 
 A sleek and modern alarm clock web app with a glassmorphic design. The app features a dynamic time display, mini clocks with rotating hands, and customizable alarms. Users can set, manage, stop, or snooze alarms, and the app plays a sound when an alarm is triggered. All of this is accompanied by smooth animations and a visually appealing blurred glass effect for an immersive experience.
 
+## Features
 
+- **Dynamic Clock:** Real-time display of current time.  
+- **Mini Clocks:** Multiple mini clocks with rotating hands.  
+- **Alarm Functionality:** Set, manage, stop, or snooze alarms.  
+- **Glassmorphic Design:** Modern, blurred glass effect for an immersive UI.  
+- **Smooth Animations:** Smooth transitions and interactions.  
 
+## Technologies Used
 
+- HTML  
+- CSS (Glassmorphism, Animations)  
+- JavaScript  
 
-Features:
+## How to Use
 
-Dynamic Clock: Real-time display of current time.
-
-Mini Clocks: Multiple mini clocks with rotating hands.
-
-Alarm Functionality: Set, manage, stop, or snooze alarms.
-
-Glassmorphic Design: Modern, blurred glass effect for an immersive UI.
-
-Smooth Animations: Smooth transitions and interactions.
-
-
-Technologies Used:
-
-HTML
-
-CSS (Glassmorphism, Animations)
-
-JavaScript
-
-
-How to Use:
-
-Set an alarm by selecting the hour, minute, and AM/PM.
-
-Add the alarm and manage it from the list.
-
-Triggered alarms can be stopped or snoozed.
-
+1. Set an alarm by selecting the hour, minute, and AM/PM.  
+2. Add the alarm and manage it from the list.  
+3. When an alarm triggers, you can stop or snooze it.  
 
 
 Main Page View: The initial view of the alarm clock web app with the dynamic clock and interface.
